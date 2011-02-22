@@ -1,0 +1,8 @@
+This is a simple little hack to get Self-style multiple inheritance working in
+JavaScript. It requires a JS engine that supports proxies, which as of this
+writing means Firefox 4 Beta.
+
+You can find out more about this weird little idea here:
+http://journal.stuffwithstuff.com/2011/02/21/multiple-inheritance-in-javascript/
+
+Remember kids, always put on safety goggles before performing an experiment.
